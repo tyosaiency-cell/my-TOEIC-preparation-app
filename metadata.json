@@ -1,0 +1,5 @@
+{
+  "name": "TOEIC AI Trainer Pro ",
+  "description": "An AI-powered TOEIC study application localized in Japanese, featuring Reading, Listening (TTS), Writing, and Mock Exams using Gemini 2.0 Flash.",
+  "requestFramePermissions": []
+}
